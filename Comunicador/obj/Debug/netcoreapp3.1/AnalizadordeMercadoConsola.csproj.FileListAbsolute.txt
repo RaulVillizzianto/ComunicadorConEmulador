@@ -1,0 +1,13 @@
+C:\Users\villi\source\repos\AnalizadordeMercadoConsola\bin\Debug\netcoreapp3.1\AnalizadordeMercadoConsola.exe
+C:\Users\villi\source\repos\AnalizadordeMercadoConsola\bin\Debug\netcoreapp3.1\AnalizadordeMercadoConsola.deps.json
+C:\Users\villi\source\repos\AnalizadordeMercadoConsola\bin\Debug\netcoreapp3.1\AnalizadordeMercadoConsola.runtimeconfig.json
+C:\Users\villi\source\repos\AnalizadordeMercadoConsola\bin\Debug\netcoreapp3.1\AnalizadordeMercadoConsola.runtimeconfig.dev.json
+C:\Users\villi\source\repos\AnalizadordeMercadoConsola\bin\Debug\netcoreapp3.1\AnalizadordeMercadoConsola.dll
+C:\Users\villi\source\repos\AnalizadordeMercadoConsola\bin\Debug\netcoreapp3.1\AnalizadordeMercadoConsola.pdb
+C:\Users\villi\source\repos\AnalizadordeMercadoConsola\obj\Debug\netcoreapp3.1\AnalizadordeMercadoConsola.csprojAssemblyReference.cache
+C:\Users\villi\source\repos\AnalizadordeMercadoConsola\obj\Debug\netcoreapp3.1\AnalizadordeMercadoConsola.csproj.CoreCompileInputs.cache
+C:\Users\villi\source\repos\AnalizadordeMercadoConsola\obj\Debug\netcoreapp3.1\AnalizadordeMercadoConsola.AssemblyInfoInputs.cache
+C:\Users\villi\source\repos\AnalizadordeMercadoConsola\obj\Debug\netcoreapp3.1\AnalizadordeMercadoConsola.AssemblyInfo.cs
+C:\Users\villi\source\repos\AnalizadordeMercadoConsola\obj\Debug\netcoreapp3.1\AnalizadordeMercadoConsola.dll
+C:\Users\villi\source\repos\AnalizadordeMercadoConsola\obj\Debug\netcoreapp3.1\AnalizadordeMercadoConsola.pdb
+C:\Users\villi\source\repos\AnalizadordeMercadoConsola\obj\Debug\netcoreapp3.1\AnalizadordeMercadoConsola.genruntimeconfig.cache
